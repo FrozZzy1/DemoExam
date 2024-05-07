@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyControlsLibrary/1.0.0": {
+        "runtime": {
+          "MyControlsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyControlsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

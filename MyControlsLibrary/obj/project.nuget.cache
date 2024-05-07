@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "72eEQUdyfCFKkT0UvMfNo9Sg0b1SvoB2VT8lNgPViBE7xVJLQt4raSRpjUIzcSBrm2RgWMLD9soFdsK8tLL1Zg==",
+  "success": true,
+  "projectFilePath": "D:\\прогер.net\\ВКИ\\3 курс\\3.2\\Голкова\\DemoProject\\MyControlsLibrary\\MyControlsLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
